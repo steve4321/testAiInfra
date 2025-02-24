@@ -1,1 +1,2 @@
 # testAiInfra
+set up
