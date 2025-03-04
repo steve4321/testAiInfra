@@ -39,7 +39,7 @@ export class LoadingViewComp extends CCVMParentComp {
         setTimeout(() => {
             // 关闭加载界面
             oops.gui.remove(UIID.Loading);
-
+                    
             // 打开游戏主界面
             oops.gui.open(UIID.Main_UI);
         }, 500);
